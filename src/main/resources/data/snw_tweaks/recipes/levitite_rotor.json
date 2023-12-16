@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#m#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "snw_tweaks:elytra_fragment"
+    },
+    "m": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "result": {
+    "item": "snw_tweaks:levitite_rotor"
+  }
+}
